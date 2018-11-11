@@ -2,9 +2,8 @@
   "name": "geotunes-app",
   "version": "1.0.0",
   "description": "Remember where you played those tunes, at the call of an API.",
-  "main": "gotunes-app.js",
+  "main": "geotunes-app.js",
   "scripts": {
-    "test": "jest ."
   },
   "repository": {
     "type": "git",
