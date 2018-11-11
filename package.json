@@ -1,0 +1,29 @@
+{
+  "name": "geotunes-app",
+  "version": "1.0.0",
+  "description": "Remember where you played those tunes, at the call of an API.",
+  "main": "gotunes-app.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proddimus/simple-nodejs-express-app-start.git"
+  },
+  "keywords": [
+    "music",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/proddimus/simple-nodejs-express-app-start/issues"
+  },
+  "homepage": "https://github.com/proddimus/simple-nodejs-express-app-start#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "sqlite3": "^4.0.3"
+  },
+  "devDependencies": {}
+}
